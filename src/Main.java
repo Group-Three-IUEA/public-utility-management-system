@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        JFrame frame = new JFrame("Public Utility Management System - Main Dashboard");
+        JFrame frame = new JFrame("Public Utility Management System - Dashboard and Waste Collection");
         JTabbedPane tabs = new JTabbedPane();
 
         tabs.addTab("Dashboard", new JPanel());
