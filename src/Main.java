@@ -11,6 +11,7 @@ public class Main {
         tabs.addTab("Dashboard", new JPanel());
 
         tabs.addTab("Customer Complaints", new JPanel());
+      tabs.addTab("Billing Services", new JPanel());
 
         frame.add(tabs, BorderLayout.CENTER);
         frame.setSize(900, 600);
