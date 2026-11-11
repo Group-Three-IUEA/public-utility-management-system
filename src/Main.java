@@ -10,7 +10,7 @@ public class Main {
 
         tabs.addTab("Dashboard", new JPanel());
 
-        // ADD SERVICE TABS HERE
+        tabs.addTab("Customer Complaints", new JPanel());
 
         frame.add(tabs, BorderLayout.CENTER);
         frame.setSize(900, 600);
